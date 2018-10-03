@@ -3,7 +3,17 @@
 > For more information on the nownownow project see [here](https://nownownow.com/about)
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
-`Last Updated: September 23rd 10:59pm`
+
+`Last Updated: October 3rd 1:29pm`
+
+## What I'm doing now
+- I'm trying to get a job, hoping and trying really hard to get Cali
+(Don't know how it's going to work out though)
+- I'm preparing for interviews
+- I'm sadly also watching all of Suits and damn do I love Mike's character!
+- I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December
+- I'm also preparing for midterms for CE
+- I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting that I might be starting a startup (legality is undecided but we're sure as hell not stopping)
 
 
 ## Yes Theory's  `Be Selfish`  email

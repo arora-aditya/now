@@ -4,17 +4,17 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 3rd 1:29pm`
+`Last Updated: October 4th 7:08pm EST`
 
 ## What I'm doing now
-- I'm trying to get a job, hoping and trying really hard to get Cali
+- I'm trying to get a job, hoping and trying really hard to go to California
 (Don't know how it's going to work out though)
-- I'm preparing for interviews
-- I'm sadly also watching all of Suits and damn do I love Mike's character!
-- I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December
-- I'm also preparing for midterms for CE
-- I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting that I might be starting a startup (legality is undecided but we're sure as hell not stopping)
-
+- I'm preparing for interviews some Data Science, some Software Developer
+- I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December'18
+- I'm also preparing for midterms as part of my Computer Engineering major at UW
+- I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting at the fact that I might be starting a startup with a good friend (the legality and specifics of which are undecided but we're sure as hell not stopping)
+- I'm sadly also watching all of Suits and damn do I love Mike's character! [sad because I have midterms to prepare for]
+- Attached below is an email that motivates me to put myself first whenever I'm down or not feeling good! Hope you find it useful
 
 ## Yes Theory's  `Be Selfish`  email
 >Prior to departure, flight attendants always give the same instructions.
@@ -116,12 +116,14 @@ I will try my best to keep this as updated as possible, do email me if I forget 
 >
 > Matt
 
-2 days ago I received this email from [Yes Theory](https://yestheory.com/) titled `Be Selfish`
+A few days ago I received this email from [Yes Theory](https://yestheory.com/) titled `Be Selfish`
+
+If you don't know who they are, you should look up why Will Smith jumped out of a helicopter, since they were the ones who challenged him to do it
 
 After I read the 400 word email, I had goosebumps on my hands. This email gave me the urge to etch the message on my hand, to never forget it.
 
-I am not one to reply to newsletters, but I made the exception, and just wanted to tell Matt, how much the message had made me reflect. Even if didn't reach him, I take pleasure in knowing that the message has been sent to the universe.
-
 I've read the email about 5 times now, whenever I'm feeling low or down, I remember to be selfish to myself, to put myself first and to let it all go. I even sent this email to my mom just because of the effect it had on me.
 
-### Lesson learnt: `Be Selfish, but help others once you wear your own!`
+Moreover, I am not one to reply to newsletters, but I made the exception, and just wanted to tell Matt (one of the members of the Yes Theory), how much the message had made me reflect. Even if I didn't reach him, I take pleasure in knowing that the message has been sent to the universe and that I did my part.
+
+### Lesson learnt: `Be Selfish, but help others once you've reached where you have to be`

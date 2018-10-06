@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jemoji

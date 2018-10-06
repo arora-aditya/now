@@ -1,10 +1,10 @@
-# This is my now page
+# nownownow
 
 > For more information on the nownownow project see [here](https://nownownow.com/about)
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 4th 7:08pm EST`
+`Last Updated: October 6th 3:34pm EST`
 
 ## What I'm doing now
 - I'm trying to get a job, hoping and trying really hard to go to California
@@ -12,6 +12,12 @@ I will try my best to keep this as updated as possible, do email me if I forget 
 - I'm preparing for interviews some Data Science, some Software Developer
 - I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December'18
 - I'm also preparing for midterms as part of my Computer Engineering major at UW
+    - **ECE 222 - Digital Computers:** Currently stuck on understanding what Frame pointers are
+    - **ECE 250 - Algorithms and Data Structures:** Have some knowledge of asymptomatic notation, so am going to see where I stand once I finish the assignment
+    - **ECE 240 - Electronic Circuits 1:** Man oh man, I'm 2 weeks behind on this course, and it's killing me
+    - **ECE 205 - Advanced Calculus 1:** One week behind, still need to catch up on an assignment
+    - **ECE 290 - Engineering Profession, Ethics, and Law:** Although this course doesn't have a midterm I'm still due to submit a learning journal of the first 7 weeks of the course
+    - **ECE 204 - Numerical Methods:** I don't know what is expected of me in this course, but I still have to finish reading the lecture notes
 - I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting at the fact that I might be starting a startup with a good friend (the legality and specifics of which are undecided but we're sure as hell not stopping)
 - I'm sadly also watching all of Suits and damn do I love Mike's character! [sad because I have midterms to prepare for]
 - Attached below is an email that motivates me to put myself first whenever I'm down or not feeling good! Hope you find it useful

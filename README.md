@@ -4,7 +4,7 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 8th 6:24pm EST`
+`Last Updated: October 9th 10:56pm EST`
 
 ## What I'm doing now
 - I'm trying to get a job, hoping and trying really hard to go to California
@@ -13,13 +13,14 @@ I will try my best to keep this as updated as possible, do email me if I forget 
 - I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December'18, it's going pretty slow to be very honest, kinda like the best paying easiest gig ever
 - I'm also preparing for midterms as part of my Computer Engineering major at UW
     - **ECE 222 - Digital Computers:** Understood frame pointers, but now lack practice on writing ARM code since I couldn't do the assignments on my own
-    - **ECE 250 - Algorithms and Data Structures:** Have some knowledge of asymptomatic notation, so am going to see where I stand once I finish the assignment. Currently doing Lab 3 - Leftist_heap
+    - **ECE 250 - Algorithms and Data Structures:** Have some knowledge of asymptomatic notation, so am going to see where I stand once I finish the assignment. Did good portion of Lab 3, still need to read up on all the different data structures tho
     - **ECE 240 - Electronic Circuits 1:** Man oh man, I'm 2 weeks behind on this course, and it's killing me
-    - **ECE 205 - Advanced Calculus 1:** One week behind, still need to catch up on an assignment. Did try the assignment, but couldn't move an inch in it
+    - **ECE 205 - Advanced Calculus 1:** One week behind, still need to catch up on an assignment. Did one question, couldn't bother to do the second one
     - **ECE 290 - Engineering Profession, Ethics, and Law:** Although this course doesn't have a midterm I'm still due to submit a learning journal of the first 7 weeks of the course
-    - **ECE 204 - Numerical Methods:** __Read a good portion of the lecture notes__ but still don't know on what and how I'm going to be tested on this
+    - **ECE 204 - Numerical Methods:** _Read a good portion of the lecture notes and even did some of the problems enclosed_ but still don't know on what and how I'm going to be tested on this
 - I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting at the fact that I might be starting a startup with a good friend (the legality and specifics of which are undecided but we're sure as hell not stopping)
 - I finished all of Suits, don't really want to pick up on another show with midterms around the corner
+- I'm trying to learn to cook better, tried to make chicken this week, tasted pretty well
 - I'm also planning to go somewhere warm in the last week of April, so if you have any recommendations of somewhere not too expensive hit me up!
 - Attached below is an email that motivates me to put myself first whenever I'm down or not feeling good! Hope you find it useful
 

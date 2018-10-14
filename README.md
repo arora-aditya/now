@@ -4,7 +4,7 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 9th 10:56pm EST`
+`Last Updated: October 14th 6:30pm EST`
 
 ## What I'm doing now
 - I'm trying to get a job, hoping and trying really hard to go to California
@@ -12,11 +12,11 @@ I will try my best to keep this as updated as possible, do email me if I forget 
 - I'm preparing for interviews some Data Science, some Software Developer
 - I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December'18, it's going pretty slow to be very honest, kinda like the best paying easiest gig ever
 - I'm also preparing for midterms as part of my Computer Engineering major at UW
-    - **ECE 222 - Digital Computers:** Understood frame pointers, but now lack practice on writing ARM code since I couldn't do the assignments on my own
-    - **ECE 250 - Algorithms and Data Structures:** Have some knowledge of asymptomatic notation, so am going to see where I stand once I finish the assignment. Did good portion of Lab 3, still need to read up on all the different data structures tho
-    - **ECE 240 - Electronic Circuits 1:** Man oh man, I'm 2 weeks behind on this course, and it's killing me
-    - **ECE 205 - Advanced Calculus 1:** One week behind, still need to catch up on an assignment. Did one question, couldn't bother to do the second one
-    - **ECE 290 - Engineering Profession, Ethics, and Law:** Although this course doesn't have a midterm I'm still due to submit a learning journal of the first 7 weeks of the course
+    - **ECE 222 - Digital Computers:** Now understood ARM ISA, but still have shit ton of practice to do. It's way better than what I thought of it earlier
+    - **ECE 250 - Algorithms and Data Structures:** Did a good portion of the assignment, still need to cross reference with the professor's solutions to make sure I did them right. Still need to read up on all the different data structures tho
+    - **ECE 240 - Electronic Circuits 1:** Tried catching up, still forgetful on OPAMPs but 2nd Order Circuits are way easier.
+    - **ECE 205 - Advanced Calculus 1:** One week behind. Surprisingly the next assignment is based on next week's material. Plan to attend all lectures for this course in the coming weeks unless something extreme comes up.
+    - **ECE 290 - Engineering Profession, Ethics, and Law:** Although this course doesn't have a midterm I'm still due to submit a learning journal of the first 7 weeks of the course. I'm working on that that as I write this.
     - **ECE 204 - Numerical Methods:** _Read a good portion of the lecture notes and even did some of the problems enclosed_ but still don't know on what and how I'm going to be tested on this
 - I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting at the fact that I might be starting a startup with a good friend (the legality and specifics of which are undecided but we're sure as hell not stopping)
 - I finished all of Suits, don't really want to pick up on another show with midterms around the corner

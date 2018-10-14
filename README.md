@@ -4,9 +4,10 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 14th 6:30pm EST`
+`Last Updated: October 14th 6:54pm EST`
 
 ## What I'm doing now
+- At the time of writing this I have been up straight for 33 hours catching up on all the stuff I wrote below. I should say that I've used this time more well spent than any other continuous chunk of time in the last 6 weeks, or 22 weeks if you count my internship where I was working and sleeping.
 - I'm trying to get a job, hoping and trying really hard to go to California
 (Don't know how it's going to work out though)
 - I'm preparing for interviews some Data Science, some Software Developer

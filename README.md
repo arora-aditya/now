@@ -1,6 +1,3 @@
----
-title: Now | Aditya Arora
----
 # nownownow
 
 > For more information on the nownownow project see [here](https://nownownow.com/about)

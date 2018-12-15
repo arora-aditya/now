@@ -4,7 +4,7 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: November 30th 8:40pm EST`
+`Last Updated: December 15th 6:31pm EST`
 
 ## What I'm doing now
 - Am gainfully employed for Winter 2019 as a Data Engineer [@DraperAI](https://github.com/DraperAI/)
@@ -12,16 +12,14 @@ I will try my best to keep this as updated as possible, do email me if I forget 
 - I'm working for [Prof Fakhri Karray](https://uwaterloo.ca/electrical-computer-engineering/about/people/karray) as a URA until December'18, it's going pretty slow to be very honest but am getting paid by term so I guess it's okay
 - I'm trying to see how much I can take on in a single study term before I can't handle it anymore which is slightly hinting at the fact that I might be starting a startup with a good friend (the legality and specifics of which are undecided but we're sure as hell not stopping)
 - Status of University in General:
-  - **ECE204**: Tried studying a little bit but still have a fair amount to go. Since this is an open book exam, I have to write out a decent amount of notes.
-  - **ECE205**: Have kept up due to assignments, thank god for those Conrad!
-  - **ECE222**: Caught up a fair amount, but lacking some practice
-  - **ECE240**: Got worse marks than expected in the lab quiz. Studied quite a bit, seems to be never ending. Still have the part about MOSFET amplifiers left, but hopefully get that done before next week
-  - **ECE250**: Studying parallely right now, let's see how far I get
-  - **ECE290**: Book review has been shaping up, I now have to study and memorize almost all the lecture slides. Hope to get some assistance on this from a friend
-- Have not started any new TV series so I am liking the self control
+  - **ECE204**: Final went pretty decent, felt bad as I could've attended all lectures if he'd informed about it being open book from the start
+  - **ECE205**: Have the final on Monday (17th Dec), studying for it as I type this
+  - **ECE222**: Final went decent, except maybe the first question. Pretty satisfied overall by my understanding of this course except Frame pointers smh
+  - **ECE240**: Gave up studying 2 days right before the final, literally just made my cheat sheet. Told my mom I'm getting a 60 and she was like even if you fail just don't burden yourself. The exam went surprisingly decent for the stress I was taking on myself
+  - **ECE250**: Predicted one question in the Final, and shared it with 3 friends. They all thanked me :p I partially messed up though, should've read the whole question smh
+  - **ECE290**: Have to read AQWF and MSM again, along with the other reference book and make notes on it
 - I'm also planning to go somewhere warm in the last week of April, so if you have any recommendations of somewhere not too expensive hit me up!
   - Cancun actually might have already fallen through, but I still want to go to some place really cool
+  - Spain?
 - **Music I am listening to right now**:
-  - Bille Eilish: [come out and play](https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4?si=MesFeeElRnW59vA4wJKziA)
-  - Imagine Dragons: [Origins [Deluxe]](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr?si=MjOl9CTwSPKd2_hW4YrKDw)
-  - Alexandre Desplat: [Extremely Loud and Incredibly Close (Original Motion Picture Soundtrack)](https://open.spotify.com/album/6eo8C94KmE7fQo9g0dd7de?si=-Bk7egDDSMWe6kSXOkEPyw)
+  - [My Game mode playlist](https://open.spotify.com/user/arora_aditya/playlist/3V3HyBNyVSTz4gKNYcg8Iz?si=DgbcXr22T7ihYgsWQGYhOQ): It has ~12 songs on repeat so that I lose track of lyrics and can do some calculus

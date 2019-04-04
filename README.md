@@ -4,16 +4,14 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: March 23rd 5:12pm EST`
-
-Sorry for the late update, its been a frustrating ~2months
+`Last Updated: April 4th 10:48am EST`
 
 ## What I'm doing now
 
-- One thing that I missed updating last time was that I joined the UW Hip Hop Club Performance Team and today actually was the day of performance
-  - I am writing this, right after the first performance and it feels really great, I feel like I nailed the performance as much as I could and could not have hoped for anything better
 - I have officially resigned from all forms of social media, and will not be giving the tech giants any more data into my browsing habits. No YouTube, Facebook, Instagram, Twitter, Reddit or Google Plus (RIP)
-  - This is the first time that I have gone to such extremes to actually curb my addictions and the blog post on the same is coming soon
+  - UPDATE: the blog post on quitting social media is out: [How Quitting Social Media almost Cost me My Life
+  - I also started a book blog (private at the moment will release details soon), but as part of that I'm reading the book "The Subtle Art of Not Giving a F*ck" and it has re-affirmed my commitment to be off social media
+](https://arora-aditya.com/blogs/social-media/)
 - Have started working for [@DraperAI](https://github.com/DraperAI) as a Data Engineer and I am excited about how much I do not know!
   - First two weeks were filled with me pestering my mentor to ask lots of questions that I lacked full context in
   - Third week (i.e. last week) was so much better since I was able to achieve so much more on my own and it was the best time ever
@@ -23,10 +21,11 @@ Sorry for the late update, its been a frustrating ~2months
 
 
 - Wanted to learn a few things this term:
+  - Try to start getting some studying done before I get rekt by the study term
   - ~~Try to pick up on some Quant/Financial Skills~~
   - Learn how to file my own taxes to level up _adulting_
   - Start to get back on the study term pace by poking my fingers into the courses next term
 
 - **Music I am listening to right now**:
-  - I'm simply in love with [Billie Eilish](https://open.spotify.com/user/arora_aditya/playlist/3pxaomF92bO7NsSBYO1QDj?si=No2gqZKNQceHalDoTOGaIw)
-  - My [mixed](https://open.spotify.com/user/arora_aditya/playlist/7meRL9DLw9iwoT0FXkohSt?si=cuw0wVAFSW24286n4onP2A) playlist: It has 11 songs with similar tempo, and Hi-Fi beats to keep me going through the day
+  - Billie Eilish's [new album](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXcf5pLcPbTwK?si=4jwUwWkDRPOMMnjX8aTUYg) is amazing and you should listen to it
+  - My [mixed](https://open.spotify.com/user/arora_aditya/playlist/7meRL9DLw9iwoT0FXkohSt?si=cuw0wVAFSW24286n4onP2A) playlist: It has 12 songs with similar tempo, and Hi-Fi beats to keep me going through the day

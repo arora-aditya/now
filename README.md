@@ -4,7 +4,7 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: April 4th 10:48am EST`
+`Last Updated: April 6th 9:32pm EST`
 
 ## What I'm doing now
 
@@ -12,11 +12,12 @@ I will try my best to keep this as updated as possible, do email me if I forget 
   - UPDATE: the blog post on quitting social media is out: [How Quitting Social Media almost Cost me My Life
   - I also started a book blog (private at the moment will release details soon), but as part of that I'm reading the book "The Subtle Art of Not Giving a F*ck" and it has re-affirmed my commitment to be off social media
 ](https://arora-aditya.com/blogs/social-media/)
-- Have started working for [@DraperAI](https://github.com/DraperAI) as a Data Engineer and I am excited about how much I do not know!
+- Have started working for [@DraperAI](https://github.com/DraperAI) as a Data Engineer ~~and I am excited about how much I do not know!~~
   - First two weeks were filled with me pestering my mentor to ask lots of questions that I lacked full context in
   - Third week (i.e. last week) was so much better since I was able to achieve so much more on my own and it was the best time ever
   - It was a very tumultuous 2 months, but last week was the first week that I actually got good feedback from my mentor.
   - I've been working on a huge multi-week (possibly multi-month) project to investigate the core logic behind everything the company does and suggest changes to it
+  - Fourth last week, and got some pretty harsh feedback on my performance and things are not looking to great
   > Overall I am learning lots of Data Eng-y stuff, lots of new stuff in Python, lots of BigQuery SQL stuff
 
 

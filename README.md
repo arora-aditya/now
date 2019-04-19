@@ -2,24 +2,26 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: April 18th 11:43am EST`
+`Last Updated: April 19th 9:22am EST`
 
 ## What I'm doing now
-- Try to start getting some studying done before I get wrecked by the study term
+- Trying to start getting some studying done before I get wrecked by the study term
+  - I am overloading the shit out of next term by taking an extra courses to bring my total up to 8 courses
+    - 2 business courses, 1 info session course, 1 prototyping (30hrs/term) course, 4 core courses
+  - Also trying to do a URA parallelly so that I literally have no time on my hand to do absolutely anything unproductive
+- Devote some time to projects outside of work before applying to jobs next term [[zephyr](https://github.com/arora-aditya/zephyr)/[sage](http://thesage.co/)]
 - I have officially resigned from alI l forms of social media, and will not be giving the tech giants any more data into my browsing habits. No YouTube, Facebook, Instagram, Twitter, Reddit or Google Plus (RIP)
   - UPDATE: the blog post on quitting social media is out: [How Quitting Social Media almost Cost me My Life](https://arora-aditya.com/blogs/social-media/)
-  - I also started a book blog (private at the moment will release details soon), but as part of that I'm reading the book "The Subtle Art of Not Giving a F*ck" and it has re-affirmed my commitment to be off social media
   - I've finished reading "The Subtle Art of Not Giving a F*ck" and should be writing the review this weekend.
-  - As for choosing my next book, Eric Schmidt's new book "The Trillion Dollar Coach" or Steve Jobs autobiography (have wanted to read this one for the longest, but the sheer size of it just keeps me from it) both seem interesting
-- Have started working for [@DraperAI](https://github.com/DraperAI) as a Data Engineer ~~and I am excited about how much I do not know!~~
+  - As for choosing my next book, Eric Schmidt's new book "The Trillion Dollar Coach" ~~or Steve Jobs autobiography (have wanted to read this one for the longest, but the sheer size of it just keeps me from it) both seem interesting~~
+- Almost done working for [@DraperAI](https://github.com/DraperAI) as a Data Engineer ~and I am excited about how much I do not know!~
   - First two weeks were filled with me pestering my mentor to ask lots of questions that I lacked full context in
   - Third week (i.e. last week) was so much better since I was able to achieve so much more on my own and it was the best time ever
   - It was a very tumultuous 2 months, but last week was the first week that I actually got good feedback from my mentor.
   - I've been working on a huge multi-week (possibly multi-month) project to investigate the core logic behind everything the company does and suggest changes to it
   - Fourth last week, and got some pretty harsh feedback on my performance and things are not looking to great
   - Second last week, and got some improvement done in the feedback, and had to totally restrain myself over the past 2 weeks to avoid making things any worse
-  > Overall I am learning lots of Data Eng-y stuff, lots of new stuff in Python, lots of BigQuery SQL stuff
-- Devote some time to projects outside of work before applying to jobs next term [[zephyr](https://github.com/arora-aditya/zephyr)/[sage](http://thesage.co/)]
+  - Overall learnt lots of Data Eng-y stuff, lots of new stuff in Python, lots of BigQuery SQL stuff
 
 ## Quote that I'm pondering:
 ### The more something threatens your identity, the more you will avoid it.

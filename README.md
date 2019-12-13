@@ -2,18 +2,18 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: October 31st 12:07am EST`
+`Last Updated: December 12th 9:35pm EST`
 
 ## What I'm doing now
-Right now I'm studying Computer Engineering at the University of Waterloo in Canada, and currently doing an internship as a ~Software~ Everything Engineer at KitchenMate in Toronto. Day to day, I write SQL for PostgresQL, Node.js in CoffeeScript, and Angular in Jade as well as write design documents and code up things for a display.
+Right now, I'm in Toronto as part of a co-op that I am wrapping up in 2 weeks.
+This coop term has probably the term that I have had the most fun, finally got to get out of Waterloo, and meet new people and live in a city all by myself.
+My role in itself has become integral to the company, so much so that they are actually looking for someone to take over all the work that I was doing on the data side of things as well as the embedded side of things.
 
-I've been working on some personal projects when I do manage to get the ball rolling.
+I've been working on some personal projects when I do manage to get the ball rolling. Managed to build the [ray-tracer](https://github.com/arora-aditya/just-another-ray-tracer), currently working on a very basic [database](https://github.com/arora-aditya/database-in-one-week)s
 
-I've been trying to level up in rust and have managed to make some sort of ray tracer with a lot of help from the tutorial and other resources. I'm now trying to make some sort of database, and improve the ray tracer but we will see how that goes.
+I've been trying to level up in rust and have managed to make some sort of ray tracer with a lot of help from the tutorial and other resources. 
 
-I've also been trying to build out my own mood tracking app/website to avoid paying the 5 dollars for the Daylio app (but also to build a cool web project), but I don't actually know if this is going anywhere yet.
+~I've also been trying to build out my own mood tracking app/website to avoid paying the 5 dollars for the Daylio app (but also to build a cool web project), but I don't actually know if this is going anywhere yet.~ The mood app clone is currently on hold since I simply fessed up the cash for that mood app, it might actually evolve to a "expense tracker" of sorts so that I can better manage expenses in the coming year
 
 ## Things I want to achieve
-- ~Join driving school to actually get my G2 license~
-- Get back into the reading game, Mark Ronson's book does not seem to be able to keep me engaged
-- Apply to jobs for the summer to avoid breaking my back in the study term
+- Get back into the reading game, Mark Ronson's next book "Everything is F*cked" sucked pretty bad so I left it half-way. Started a new book, Blitz-scaling and have made significant strides in the same on my new kindle

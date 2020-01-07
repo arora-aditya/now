@@ -2,13 +2,11 @@
 
 I will try my best to keep this as updated as possible, do email me if I forget for over 2 weeks!
 
-`Last Updated: January 5th 11:52am IST`
+`Last Updated: January 7th 8:38am EST`
 
 ## What I'm doing now
 
-Coop has wrapped up, and I got an Outstanding rating 😁!!
-
-I'm excited to get back on the school grind, and a little sad to have left Toronto. Hopefully this term has less ups and downs than the last one!
+Going back to school tomorrow, excited and overwhelmed at the same time. Hopefully I have not missed too much in the first two days.
 
 I've been working on some personal projects when I do manage to get the ball rolling. Managed to build the [ray-tracer](https://github.com/arora-aditya/just-another-ray-tracer), currently working on a very basic [database](https://github.com/arora-aditya/database-in-one-week)
 
